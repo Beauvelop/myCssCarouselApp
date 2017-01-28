@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="200" viewBox="200 0 640 480" class="s-text-a">
+<style>
+  svg {
+  background-color: #333031;
+  }
+  text {
+  font-family: "Source Code Pro", sans-serif;
+  font-size: 2em;
+  fill: #489065;
+  }
+</style>
+<text x="0" y="130">Hello World</text>
+<text x="0" y="180">How's it going?</text>
+</svg>
